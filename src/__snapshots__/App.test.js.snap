@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot when false 1`] = `
+<div
+  className="someClass"
+>
+  <p
+    className="MuiTypography-root-1 MuiTypography-body1-10"
+  >
+    Boolean value is: 
+    false
+  </p>
+  <button
+    className="MuiButtonBase-root-41 MuiButton-root-25"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={undefined}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-26"
+    >
+      Change boolean
+    </span>
+    <span
+      className="MuiTouchRipple-root-44"
+    />
+  </button>
+</div>
+`;
+
+exports[`App snapshot when true 1`] = `
+<div
+  className="someClass"
+>
+  <p
+    className="MuiTypography-root-1 MuiTypography-body1-10"
+  >
+    Boolean value is: 
+    true
+  </p>
+  <button
+    className="MuiButtonBase-root-41 MuiButton-root-25"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={undefined}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-26"
+    >
+      Change boolean
+    </span>
+    <span
+      className="MuiTouchRipple-root-44"
+    />
+  </button>
+</div>
+`;
